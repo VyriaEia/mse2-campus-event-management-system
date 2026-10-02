@@ -61,6 +61,15 @@ The AI-generated architecture is realistic for a 3-hour prototype because it is 
 
 \*\*Responsibility:\*\* The team is responsible for all content in this repository, including any AI-generated portions. Passwords, secrets, and the JWT key in \`appsettings.json\` are development placeholders only.
 
+## Verification Log
+
+| Task # | Identified AI Flaw / Limitation | Manual Correction Applied | Member Responsible |
+|--------|---------------------------------|---------------------------|--------------------|
+| Task 2 | None – AI output met WCAG requirements | Verified accessibility manually | Member 2 |
+| Task 3 | None – Schema included PK/FK, constraints | Verified schema correctness | Member 3 |
+| Task 4 | None – Refactored code already secure | Verified parameterized queries and disposal | Member 1 & 3 |
+
+
 ERD:
 <img width="632" height="407" alt="image" src="https://github.com/user-attachments/assets/0d180e08-02e1-46e7-95dd-f559f790dcc4" />
 
